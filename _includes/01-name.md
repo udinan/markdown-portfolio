@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# my portofolio
+my name is udinan
